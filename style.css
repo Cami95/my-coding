@@ -1,4 +1,13 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4DUbU_ae7wgEp1F363jktq5ma5A7iAtUdDQ&s");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
 h1{
-    text-decoration: underline;
+    
+    background-color: aquamarine;
+    opacity: 0.6;
     text-align: center;
 }
