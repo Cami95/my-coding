@@ -1,5 +1,8 @@
+
+
 .header{
     text-align: center;
+    margin: 100px;
 }
 
 .header h1 {
@@ -8,4 +11,13 @@
 
 .header h2 {
     font-size: 25px;
+}
+
+.header p {
+    font-size: 20px;
+}
+
+
+.navigation-buttons{
+    text-align: center;
 }
