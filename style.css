@@ -25,3 +25,16 @@
 footer{
     text-align: center;
 }
+
+.fun {
+    text-align: center;
+}
+
+.fun button{
+    
+    background: purple;
+    color: white;
+    margin: 20px;
+    border-radius: 25px;
+    font-size: 26px;
+}
