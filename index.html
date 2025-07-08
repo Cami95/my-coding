@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="style.css" />
     <title>My coding Profile</title>
   </head>
-  <body>
+  <body class="gradient">
     <div class="fun">
       <button>Make it More Fun!!</button>
     </div>
@@ -35,5 +35,16 @@
       This profile was coded by Cami Johnson and is open-sourced at hosted on
       Github!
     </footer>
+
+    <script>
+      function makeItFun() {
+        let gradient = document.querySelector(".gradient");
+
+        gradient.classList.add("lightBlue");
+      }
+
+      let button = document.querySelector("button");
+      button.addEventListener("click", makeItFun);
+    </script>
   </body>
 </html>

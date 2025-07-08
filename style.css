@@ -38,3 +38,11 @@ footer{
     border-radius: 25px;
     font-size: 26px;
 }
+
+button:hover{
+    cursor: pointer;
+}
+
+.lightBlue{
+    background: lightblue;
+}
